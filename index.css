@@ -1,0 +1,47 @@
+body {
+    background-image: url("winter subway.jpg");
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+
+}
+.container {
+    background: grey;
+    border: 3px solid rgb(35, 66, 104);
+    margin: auto;
+    border-radius: 15px;
+    max-width: 75%;
+   
+}
+h1 {
+    font-size: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: aqua;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: rgb(0, 19, 139);
+    border-color: aqua;
+}
+
+#save-btn {
+    background: darkgreen;
+}
